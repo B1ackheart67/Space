@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Pacifico|Stalinist+One&display=swap');
+
+/* font-family: 'Amatic SC', cursive;
+font-family: 'Stalinist One', cursive;
+font-family: 'Pacifico', cursive; */
+
+html {
+    height: 100%;
+}
+
+body {
+    color: #ecf0f1;
+    height: 100%;
+    background-image: url('img/bg.jpg');
+    background-size: cover;
+}
+
+.main-title {
+    font-family: 'Stalinist One', cursive;
+}
+
+.main-link {
+    color: #ecf0f1;
+    text-decoration: none;
+}
+
+.main-link:hover {
+    color: #8e44ad;
+    text-decoration: none;
+}
+
+.main-link.active {
+    background-color: #9b59b6 !important;
+}
+
+.main-content {
+    background-color: rgba(189, 195, 199, 0.3);
+    font-family: 'Amatic SC', cursive;
+    font-size: 2rem;
+}
+
+.footer {
+    font-family: 'Stalinist One', cursive;
+}
