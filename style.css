@@ -1,8 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC|Pacifico|Stalinist+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Mansalva&display=swap');
 
 /* font-family: 'Amatic SC', cursive;
 font-family: 'Stalinist One', cursive;
-font-family: 'Pacifico', cursive; */
+font-family: 'Pacifico', cursive; 
+font-family: 'Mansalva', cursive;
+*/
 
 html {
     height: 100%;
@@ -40,5 +43,5 @@ body {
 }
 
 .footer {
-    font-family: 'Stalinist One', cursive;
+    font-family: 'Mansalva', cursive;
 }
